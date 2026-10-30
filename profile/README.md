@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ios6-apps/.github/main/branding/logo.png" width="120" align="right" alt="iOS 6 Apps logo">
-
 # iOS 6 Apps
 
 Small open-source apps for iPhones that are stuck on **iOS 6** (written for an iPhone 5 on iOS 6.1.3, armv7), built with a current Mac toolchain.
