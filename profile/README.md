@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ios6-apps/.github/main/branding/logo.png" width="120" align="right" alt="iOS 6 Apps logo">
+
 # iOS 6 Apps
 
 Small open-source apps for iPhones that are stuck on **iOS 6** (written for an iPhone 5 on iOS 6.1.3, armv7), built with a current Mac toolchain.
@@ -29,3 +31,8 @@ makes the IPA and `./build.sh sim` makes a simulator build. The repositories als
 Issues and pull requests are welcome; please say which device and iOS version you tried. Everything is MIT-licensed, with third-party notices in each repository.
 
 These are independent projects, not affiliated with Hacker News / Y Combinator, Reddit, the Kodi Foundation, Google or any other service they talk to.
+
+## Branding
+
+`branding/` holds the organization logo (`logo.png`), a 1280x640 social preview image for each repository (`social/`) and the script that draws them (`make_branding.py`, needs Pillow and macOS fonts).
+The app icons live in each app's `docs/icon.png`.
